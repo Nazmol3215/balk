@@ -102,7 +102,7 @@ export default function Router() {
       <Route path="/Cook_butcher_1" element={<Cook_butcher_1 />} />
       <Route path="/House_rental_1" element={<House_rental_1 />} />
       <Route path="/UserForm" element={<UserForm />} />
-      <Route path="/UserList" element={<UserList />} />
+      {/* <Route path="/UserList" element={<UserList />} /> */}
       <Route path="/House_rental_Form" element={<House_rental_Form />} />
       <Route path="/House_rental" element={<House_rental />} />
       <Route path="/Kjtuhigbniu" element={<Kjtuhigbniu />} />

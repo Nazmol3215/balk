@@ -8,12 +8,12 @@ const manualProfiles = [
   { name: 'কেবিএম হাদিউজ্জামান সেলিম', phone: '+8801711-386831', profession: "কিডনি রোগ বিশেষজ্ঞ", email: 'mushfiqur.rahman@example.com' },
   { name: "অধ্যাপক (সহঃ) ডাঃ মুশফিকুর রহমান", phone: "01712-288455", profession: "নবজাতক ও শিশু রোগ বিশেষজ্ঞ", email: "mushfiqur.rahman@example.com" },
   { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
+  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ ", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
+  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
+  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
   { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
   { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
-  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
-  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
-  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
-  { name: "অধ্যাপক (সহঃ) ডাঃ আশীষ কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
+  { name: "অধ্যাপক (সহঃ) কুমার রায়", phone: "01710-077111", profession: "হৃদরোগ ও মেডিসিন বিশেষজ্ঞ", email: "ashish.roy@example.com" },
 ];
 
 // কল করার ফাংশন
