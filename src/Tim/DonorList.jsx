@@ -42,7 +42,7 @@ export default function DonorList() {
   };
 
   const handleDelete = async (id) => {
-    const code = prompt('অনুগ্রহ করে আপনার সিক্রেট কোড দিন:');
+    const code = prompt('অনুগ্রহ করে আপনার সিক্রেট কোড দিন vআপনার সিক্রেট কোড দিন:');
     if (!code) return;
     await axios.delete(`http://localhost:5000/api/donors/${id}`, { data: { secretCode: code } });
     fetchDonors();
