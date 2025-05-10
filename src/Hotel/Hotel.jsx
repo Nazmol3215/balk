@@ -19,7 +19,7 @@ export default function Hotel() {
       imageLink: diojgn5,
       imageName: 'হোটেল রাজধানী, ভালুকা',
       phone: '01708-160168',
-      address: 'ভালুকা হৃদয় সুপার মার্কেট',
+      address: 'ভালুকা হৃদয় সুপার মার্কেট,ভালুকা',
     },
     {
       _id: 'm2',
@@ -61,7 +61,7 @@ export default function Hotel() {
       imageLink: diojgn7,
       imageName: 'ডক্টরস ক্যাফে',
       phone: '09022 56120',
-      address: 'ভালুকা বাসস্ট্যান্ড রাস্তার পূর্বে, ভালুকা',
+      address: 'ভালুকা বাসস্ট্যান্ড রাস্তার পূর্বে, ',
     },
     {
       _id: 'm8',
@@ -83,14 +83,14 @@ export default function Hotel() {
       // imageLink: diojgn8,
       imageName: 'সারাবেলা আবাসিক হোটেল,আবাসিক হোটেল',
       phone: '018550240095',
-      address: 'নতুন বাসস্ট্যান্ড, ভালুকা, ভালুকা',
+      address: 'নতুন বাসস্ট্যান্ড, ভালুকা, ',
     },
     {
       _id: 'm9',
       // imageLink: diojgn9,
       imageName: 'হোটেল নিরব,আবাসিক হোটেল',
       phone: '01700000002',
-      address: 'সারাবেলা হক মার্কেট',
+      address: 'সারাবেলা হক মার্কেট,ভালুকা',
     },
     {
       _id: 'm8',

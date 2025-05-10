@@ -32,7 +32,7 @@ import Cook_butcher_1 from "./BhalukaAbout/Cook_butcher_1";
 import DonorCard_1 from "./BhalukaAbout/DonorCard_1";
 import House_rental_1 from "./BhalukaAbout/House_rental_1";
 import UserForm from "./Admin/UserForm";
-import UserList from "./Admin/UserList";
+// import UserList from "./Admin/UserList";
 import House_rental from "./BckHouseList/House_rental";
 import House_rental_Form from "./BckHouseList/House_rental_Form";
 import Kjtuhigbniu from "./Cook_butcher/Kjtuhigbniu";
