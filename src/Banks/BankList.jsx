@@ -95,7 +95,7 @@ export default function BankList() {
       imageLink: diojgn12,
       imageName: 'এনআরবিসি ব্যাংক ভালুকা সাব-ব্রাঞ্চ',
       phone: '01766-098909',
-      address: 'ভালুকা প্লাজা',
+      address: 'ভালুকা প্লাজা,ভালুকা',
     },
     {
       _id: 'm12',
@@ -130,7 +130,7 @@ export default function BankList() {
       imageLink: diojgn17,
       imageName: 'উত্তরা ব্যাংক পিএলসি, ভালুকা ব্রাঞ্চ',
       phone: '01700000003',
-      address: 'ভালুকা বাজার রোড',
+      address: 'ভালুকা বাজার রোড,ভালুকা',
     }
   ];
 
