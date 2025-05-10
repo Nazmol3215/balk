@@ -43,7 +43,7 @@ import CustomUserForm from "./CustomUserForm/CustomUserForm";
 import MemberForm from "./Onelawy/MemberForm";  
 import MemberList from "./Onelawy/MemberList";
 import ProfileList from "./Cleaning/ProfileList";
-import Cleaning_staff_1 from "./BhalukaAbout/cleaning_staff_1";
+import Cleaning_staff_1 from "./BhalukaAbout/Cleaning_staff_1";
 // import AdminDashboard from "./Admin/AdminDashboard";
 import CleaningForm from "./Cleaning/CleaningForm";
 import Police_1 from "./BhalukaAbout/Police_1";
